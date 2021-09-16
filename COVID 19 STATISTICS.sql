@@ -3,7 +3,7 @@ COVID 19 Data Exploration (Worldwide vs Vietnam) from 2020-02-24 to 2021-09-12
 
 Data source: https://ourworldindata.org/covid-deaths
 
-Skills used: Creating Views, Converting Data Types, Windows Functions, Aggregate Functions
+Skills used: Creating Views, Converting Data Types, Windows Functions, Aggregate Functions, Pivoting
 
 */
 
